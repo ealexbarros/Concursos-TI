@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Página de Preparação para o Concurso de Perito Criminal da Polícia Federal
 
-You can use the [editor on GitHub](https://github.com/ealexbarros/peritocriminal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Utilizaremos os menus acima para organizar o conteúdo programático do concurso.
 
 ### Markdown
 
