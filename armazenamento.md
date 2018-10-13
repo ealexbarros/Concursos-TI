@@ -8,7 +8,11 @@ sitemap:
 ---
 #```5. Armazenamento```
 
-5.1 Tecnologias de armazenamento DAS, NAS e SAN. \\
-5.2 Serviços de armazenamento, padrões de disco e de interfaces de conexão e transmissão.\\
-5.3 RAID: tipos, características e aplicações.\\
+5.1 Tecnologias de armazenamento DAS, NAS e SAN.
+
+
+5.2 Serviços de armazenamento, padrões de disco e de interfaces de conexão e transmissão.
+
+5.3 RAID: tipos, características e aplicações.
+
 5.4 Cópias de segurança ( backups): meio de armazenamento, periodicidade e disponibilidade.
